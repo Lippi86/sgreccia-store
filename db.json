@@ -1,0 +1,785 @@
+{
+    "moda masculina": [
+      
+      {
+        "id": 1,
+        "nome": "Camisa",
+        "descrição": "Verde",
+        "tamanho": "G",
+        "img": "public/camisa verde masc.jpg"
+      },
+
+      {
+        "id": 2,
+        "nome": "Camisa",
+        "descrição": "Azul",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 3,
+        "nome": "Camisa",
+        "descrição": "Rosa",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 4,
+        "nome": "Camisa",
+        "descrição": "Vermelha",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 5,
+        "nome": "Camisa",
+        "descrição": "Amarelo",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 6,
+        "nome": "Camisa",
+        "descrição": "Verde",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 7,
+        "nome": "Camisa",
+        "descrição": "Azul",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 8,
+        "nome": "Camisa",
+        "descrição": "Rosa",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 9,
+        "nome": "Camisa",
+        "descrição": "Vermelha",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 10,
+        "nome": "Camisa",
+        "descrição": "Amarelo",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 11,
+        "nome": "Camisa",
+        "descrição": "Verde",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 12,
+        "nome": "Camisa",
+        "descrição": "Azul",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 13,
+        "nome": "Camisa",
+        "descrição": "Rosa",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 14,
+        "nome": "Camisa",
+        "descrição": "Vermelha",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 15,
+        "nome": "Camisa",
+        "descrição": "Amarelo",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 16,
+        "nome": "Short",
+        "descrição": "Verde",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 17,
+        "nome": "Short",
+        "descrição": "Azul",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 18,
+        "nome": "Short",
+        "descrição": "Rosa",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 19,
+        "nome": "Short",
+        "descrição": "Vermelha",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 20,
+        "nome": "Short",
+        "descrição": "Amarelo",
+        "tamanho": "G",
+        "img": ""
+      },
+
+      {
+        "id": 21,
+        "nome": "Short",
+        "descrição": "Verde",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 22,
+        "nome": "Short",
+        "descrição": "Azul",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 23,
+        "nome": "Short",
+        "descrição": "Rosa",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 24,
+        "nome": "Short",
+        "descrição": "Vermelha",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 25,
+        "nome": "Short",
+        "descrição": "Amarelo",
+        "tamanho": "M",
+        "img": ""
+      },
+
+      {
+        "id": 26,
+        "nome": "Short",
+        "descrição": "Verde",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 27,
+        "nome": "Short",
+        "descrição": "Azul",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 28,
+        "nome": "Short",
+        "descrição": "Rosa",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 29,
+        "nome": "Short",
+        "descrição": "Vermelha",
+        "tamanho": "P",
+        "img": ""
+      },
+
+      {
+        "id": 30,
+        "nome": "Short",
+        "descrição": "Amarelo",
+        "tamanho": "P",
+        "img": ""
+      }
+      
+    ],
+    "acessorios": [
+      {
+        "id": 1,
+        "nome": "Cinto Preto",
+        "img": ""
+      },
+      {
+        "id": 2,
+        "nome": "Meia Branca",
+        "img": ""
+      },
+      {
+        "id": 3,
+        "nome": "Cueca Box Cores Diversas",
+        "img": ""
+      },
+      {
+        "id": 4,
+        "nome": "Pulseiras",
+        "img": ""
+      },
+      {
+        "id": 5,
+        "nome": "Brincos Masculinos",
+        "img": ""
+      }
+    ],
+    "calçados": [
+        {
+          "id": 1,
+          "nome": "Tenis Preto",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "nome": "Tenis Branco",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "nome": "Sapato Preto",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "nome": "Sapato Marrom",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "nome": "Chinelo Havaianas mix cores",
+          "img": ""
+        }
+      ],
+      "moda feminina": [
+      
+        {
+          "id": 1,
+          "nome": "Camisa",
+          "descrição": "Verde",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 2,
+          "nome": "Camisa",
+          "descrição": "Azul",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 3,
+          "nome": "Camisa",
+          "descrição": "Rosa",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 4,
+          "nome": "Camisa",
+          "descrição": "Vermelha",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 5,
+          "nome": "Camisa",
+          "descrição": "Amarelo",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 6,
+          "nome": "Camisa",
+          "descrição": "Verde",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 7,
+          "nome": "Camisa",
+          "descrição": "Azul",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 8,
+          "nome": "Camisa",
+          "descrição": "Rosa",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 9,
+          "nome": "Camisa",
+          "descrição": "Vermelha",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 10,
+          "nome": "Camisa",
+          "descrição": "Amarelo",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 11,
+          "nome": "Camisa",
+          "descrição": "Verde",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 12,
+          "nome": "Camisa",
+          "descrição": "Azul",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 13,
+          "nome": "Camisa",
+          "descrição": "Rosa",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 14,
+          "nome": "Camisa",
+          "descrição": "Vermelha",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 15,
+          "nome": "Camisa",
+          "descrição": "Amarelo",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 16,
+          "nome": "Short",
+          "descrição": "Verde",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 17,
+          "nome": "Short",
+          "descrição": "Azul",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 18,
+          "nome": "Short",
+          "descrição": "Rosa",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 19,
+          "nome": "Short",
+          "descrição": "Vermelha",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 20,
+          "nome": "Short",
+          "descrição": "Amarelo",
+          "tamanho": "G"
+        },
+  
+        {
+          "id": 21,
+          "nome": "Short",
+          "descrição": "Verde",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 22,
+          "nome": "Short",
+          "descrição": "Azul",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 23,
+          "nome": "Short",
+          "descrição": "Rosa",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 24,
+          "nome": "Short",
+          "descrição": "Vermelha",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 25,
+          "nome": "Short",
+          "descrição": "Amarelo",
+          "tamanho": "M"
+        },
+  
+        {
+          "id": 26,
+          "nome": "Short",
+          "descrição": "Verde",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 27,
+          "nome": "Short",
+          "descrição": "Azul",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 28,
+          "nome": "Short",
+          "descrição": "Rosa",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 29,
+          "nome": "Short",
+          "descrição": "Vermelha",
+          "tamanho": "P"
+        },
+  
+        {
+          "id": 30,
+          "nome": "Short",
+          "descrição": "Amarelo",
+          "tamanho": "P"
+        },
+        {
+            "id": 31,
+            "nome": "Saia",
+            "descrição": "Verde",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 32,
+            "nome": "Saia",
+            "descrição": "Azul",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 33,
+            "nome": "Saia",
+            "descrição": "Rosa",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 34,
+            "nome": "Saia",
+            "descrição": "Vermelha",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 35,
+            "nome": "Saia",
+            "descrição": "Amarelo",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 36,
+            "nome": "Saia",
+            "descrição": "Verde",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 37,
+            "nome": "Saia",
+            "descrição": "Azul",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 38,
+            "nome": "Saia",
+            "descrição": "Rosa",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 39,
+            "nome": "Saia",
+            "descrição": "Vermelha",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 40,
+            "nome": "Saia",
+            "descrição": "Amarelo",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 41,
+            "nome": "Saia",
+            "descrição": "Verde",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 42,
+            "nome": "Saia",
+            "descrição": "Azul",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 43,
+            "nome": "Saia",
+            "descrição": "Rosa",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 44,
+            "nome": "Saia",
+            "descrição": "Vermelha",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 45,
+            "nome": "Saia",
+            "descrição": "Amarelo",
+            "tamanho": "P"
+          },
+          {
+            "id": 46,
+            "nome": "Vestido",
+            "descrição": "Verde",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 47,
+            "nome": "Vestido",
+            "descrição": "Azul",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 48,
+            "nome": "Vestido",
+            "descrição": "Rosa",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 49,
+            "nome": "Vestido",
+            "descrição": "Vermelha",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 50,
+            "nome": "Vestido",
+            "descrição": "Amarelo",
+            "tamanho": "G"
+          },
+    
+          {
+            "id": 51,
+            "nome": "Vestido",
+            "descrição": "Verde",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 52,
+            "nome": "Vestido",
+            "descrição": "Azul",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 53,
+            "nome": "Vestido",
+            "descrição": "Rosa",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 54,
+            "nome": "Vestido",
+            "descrição": "Vermelha",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 55,
+            "nome": "Vestido",
+            "descrição": "Amarelo",
+            "tamanho": "M"
+          },
+    
+          {
+            "id": 56,
+            "nome": "Vestido",
+            "descrição": "Verde",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 57,
+            "nome": "Vestido",
+            "descrição": "Azul",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 58,
+            "nome": "Vestido",
+            "descrição": "Rosa",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 59,
+            "nome": "Vestido",
+            "descrição": "Vermelha",
+            "tamanho": "P"
+          },
+    
+          {
+            "id": 60,
+            "nome": "Vestido",
+            "descrição": "Amarelo",
+            "tamanho": "P"
+          }
+        
+      ],
+      "acessorios femininos": [
+        {
+          "id": 1,
+          "nome": "Cinto Preto Feminino"
+        },
+        {
+          "id": 2,
+          "nome": "Meia Calça Feminino"
+        },
+        {
+          "id": 3,
+          "nome": "Langerie Cores Conjunto Diversas",
+          "descrição":"Amarelo"  
+        },
+        {
+            "id": 4,
+            "nome": "Langerie Cores Conjunto Diversas",
+            "descrição":"Verde" 
+          },
+          {
+            "id": 5,
+            "nome": "Langerie Cores Conjunto Diversas",
+            "descrição":"Vermelha" 
+          },
+          {
+            "id": 6,
+            "nome": "Langerie Cores Conjunto Diversas",
+            "descrição":"Rosa" 
+          },
+          {
+            "id": 7,
+            "nome": "Langerie Cores Conjunto Diversas",
+            "descrição":"Azul" 
+          },
+        {
+          "id": 8,
+          "nome": "Pulseiras"
+        },
+        {
+          "id": 9,
+          "nome": "Brincos Femininos"
+        }
+      ],
+      "calçados femininos": [
+          {
+            "id": 1,
+            "nome": "Tenis Feminino Preto"
+          },
+          {
+            "id": 2,
+            "nome": "Tenis Feminino Branco"
+          },
+          {
+            "id": 3,
+            "nome": "Sapato Feminino Preto"
+          },
+          {
+            "id": 4,
+            "nome": "Sapato Feminino Marrom"
+          },
+          {
+            "id": 5,
+            "nome": "Chinelo Havaianas Feminino mix cores"
+          }
+        ]
+  }
